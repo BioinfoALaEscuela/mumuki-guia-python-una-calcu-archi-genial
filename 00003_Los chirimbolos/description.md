@@ -15,8 +15,12 @@ Si por ejemplo tomamos la siguiente operación:
 5+30*20
 ```
 
-¿Qué da? ¿Por qué?  Y si ahora hacemos:
+¿Qué da? 
+
+Y si ahora hacemos:
 
 ``` python
 (5+30)*20
 ```
+
+¿Dá lo mismo que antes?
