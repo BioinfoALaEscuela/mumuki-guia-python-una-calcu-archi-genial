@@ -16,6 +16,7 @@ Si por ejemplo tomamos la siguiente operación:
 ```
 
 ¿Qué da? ¿Por qué?  Y si ahora hacemos:
+
 ``` python
 (5+30)*20
 ```
