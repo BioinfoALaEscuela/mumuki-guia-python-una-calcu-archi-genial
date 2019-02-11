@@ -1,1 +1,1 @@
-manejo de datos, 
+Numeros amigos :scream:
