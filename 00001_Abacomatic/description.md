@@ -4,3 +4,5 @@ Escribí en tu consola:
 ```python
 3*5
 ```
+
+¿Cuál es el resultado?
