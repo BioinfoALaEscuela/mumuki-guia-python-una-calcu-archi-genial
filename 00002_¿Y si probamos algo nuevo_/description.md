@@ -1,6 +1,6 @@
-Probemos ahora:
+Probemos ahora para qué se usa la barra hacia adelante:
 
 ``` python
 8/4
 ```
-¿Qué resultado nos da? ¿Para qué se usa la barra hacia adelante? 
+¿Qué resultado nos da? 
