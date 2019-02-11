@@ -9,5 +9,13 @@ En Python se puede usar los siguientes sı́mbolos básicos de matemáticas, que
  División                 /    
  
  
- ¿Se te ocurre para qué nos sirven los ()?
+Si por ejemplo tomamos la siguiente operación:
  
+``` python
+5+30*20
+```
+
+¿Qué da? ¿Por qué?  Y si ahora hacemos:
+``` python
+(5+30)*20
+```
