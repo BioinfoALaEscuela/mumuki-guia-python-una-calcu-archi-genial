@@ -7,3 +7,7 @@ En Python se puede usar los siguientes sı́mbolos básicos de matemáticas, que
  Multiplicación           *    
 
  División                 /    
+ 
+ 
+ ¿Se te ocurre para qué nos sirven los ()?
+ 
