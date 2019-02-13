@@ -4,7 +4,9 @@ Existen en `Python` algunas restricciones para los nombres de variables:
 * No pueden comenzar con números, aunque sí contenerlos :-1:
 * No deben ser utilizados los nombres de funciones como “print” :-1:
 
-Algunos ejemplos de nombres permitidos son :plus1::
+Algunos ejemplos de nombres permitidos son:
 
 * variable1     
 * variable_2
+
+Sabiendo esto ya podemos seguir!!! :muscle::clap:
