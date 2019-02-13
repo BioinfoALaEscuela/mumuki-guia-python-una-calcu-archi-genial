@@ -1,5 +1,6 @@
-Una variable puede contener cualquier tipo de dato: números, textos, lista de cosas, etc. 
+Una variable puede contener cualquier tipo de dato: números, textos, lista de cosas, etc. :sunglasses:
 En el caso de las letras o palabras, siempre debemos escribirlas entre comillas para que `Python` las considere como texto.
+
 ``` python
 b = 'hola'
 ```
