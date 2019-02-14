@@ -1,12 +1,11 @@
 En Python se puede usar los siguientes sı́mbolos básicos de matemáticas, que en programación se llaman operadores:
 
- Suma                     +    
-
- Resta                    -    
-
- Multiplicación           *    
-
- División                 /    
+|Operación	|Operando | | | | | | | | | | | | |
+|-------------	|----------	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
+| Suma | + | | | | | | | | | | | | |
+| Resta | - | | | | | | | | | | | | |
+| Multiplicación | * | | | | | | | | | | | | |
+| División | / | | | | | | | | | | | | |
  
  
 Si por ejemplo tomamos la siguiente operación:
